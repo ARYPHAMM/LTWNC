@@ -1,0 +1,4 @@
+E:\LTWNC-master\DoAnQLKaraoke\DoAnQLKaraokeDAO\bin\x64\asdasd\DoAnQLKaraokeDAO.dll
+E:\LTWNC-master\DoAnQLKaraoke\DoAnQLKaraokeDAO\bin\x64\asdasd\DoAnQLKaraokeDTO.dll
+E:\LTWNC-master\DoAnQLKaraoke\DoAnQLKaraokeDAO\obj\x64\asdasd\DoAnQLKaraokeDAO.csprojResolveAssemblyReference.cache
+E:\LTWNC-master\DoAnQLKaraoke\DoAnQLKaraokeDAO\obj\x64\asdasd\DoAnQLKaraokeDAO.dll

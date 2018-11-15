@@ -1,0 +1,2 @@
+E:\LTWNC-master\DoAnQLKaraoke\DoAnQLKaraokeDTO\bin\345\DoAnQLKaraokeDTO.dll
+E:\LTWNC-master\DoAnQLKaraoke\DoAnQLKaraokeDTO\obj\345\DoAnQLKaraokeDTO.dll
